@@ -8,3 +8,8 @@ Data and background: https://postalmuseum.si.edu/exhibition/about-postal-operati
 ![Project Screenshot](images/IMG_5069.jpeg)
 
 
+## Viz idea 2: Halloween Under the Sea
+Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpionfish-x-ray
+![Project Screenshot](https://www.si.edu/sites/default/files/snapshots/xray-fish-snapshot.jpg)
+![Project Screenshot](images/screenshot3.png)
+![Project Screenshot](images/IMG_5070.jpeg)
