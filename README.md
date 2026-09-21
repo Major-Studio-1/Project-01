@@ -18,3 +18,4 @@ Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpion
 ## Viz idea 3: The real ledger
 ![Project Screenshot](images/old_ledger_1.jpg)
 ![Project Screenshot](images/old_ledger_2.jpg)
+![Project Screenshot](images/IMG_5071.jpeg)
