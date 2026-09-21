@@ -13,3 +13,8 @@ Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpion
 ![Project Screenshot](https://www.si.edu/sites/default/files/snapshots/xray-fish-snapshot.jpg)
 ![Project Screenshot](images/screenshot3.png)
 ![Project Screenshot](images/IMG_5070.jpeg)
+
+
+## Viz idea 3: The real ledger
+![Project Screenshot](images/old_ledger_1.jpg)
+![Project Screenshot](images/old_ledger_2.jpg)
