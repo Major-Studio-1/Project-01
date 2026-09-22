@@ -19,3 +19,7 @@ Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpion
 ![Project Screenshot](images/old_ledger_1.jpg)
 ![Project Screenshot](images/old_ledger_2.jpg)
 ![Project Screenshot](images/IMG_5071.jpeg)
+
+
+## Data/API res verification
+[Open data unit samples](si_data_unit_samples_english.html)
