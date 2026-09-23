@@ -2,6 +2,7 @@
 PSDV5200 MS1 Project 01
 
 ## Viz idea 1: Owney the Dog
+Prototype: [Idea1-Owney](idea1-Owney/owney-visualization.html)
 Data and background: https://postalmuseum.si.edu/exhibition/about-postal-operations-popular-culture-seals-symbols/owney-the-dog
 ![Project Screenshot](images/owney.jpg)
 ![Project Screenshot](images/screenshot1.png)
@@ -23,4 +24,3 @@ Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpion
 
 ## Data/API res verification
 - [Open data unit samples](si_data_unit_samples_english.html)
-- [Idea1-Owney](idea1-Owney/owney-visualization.html)
