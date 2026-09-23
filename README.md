@@ -22,5 +22,5 @@ Data and background: https://www.si.edu/collections/snapshot/shortsnout-scorpion
 
 
 ## Data/API res verification
-[Open data unit samples](si_data_unit_samples_english.html)
-[Idea1-Owney](idea1-Owney/owney-visualization.html)
+- [Open data unit samples](si_data_unit_samples_english.html)
+- [Idea1-Owney](idea1-Owney/owney-visualization.html)
