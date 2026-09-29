@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 01: Owney the Postal Dog</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>Owney the Postal Dog Collection</h1>
+        <p id="recordCountDisplay" class="record-count">Fetching records from the Smithsonian API...</p>
+    </header>
+    
+    <main class="dashboard">
+        <section class="charts-section">
+            <!-- Top Row: Full Width Map + Legend -->
+            <div class="map-row">
+                <div class="chart-container map-container">
+                    <h2>Tags by Location (US)</h2>
+                    <div id="locationChart"></div>
+                </div>
+                
+                <!-- NEW: Legend Container -->
+                <div class="chart-container map-legend-container">
+                    <h2>Location Index</h2>
+                    <div id="mapLegend" class="map-legend"></div>
+                </div>
+            </div>
+            
+            <!-- Bottom Row: Bar and Donut Charts -->
+            <div class="charts-row">
+                <div class="chart-container">
+                    <h2>Tags by Year</h2>
+                    <div id="yearChart"></div>
+                </div>
+
+                <div class="chart-container">
+                    <h2>Tag Materials</h2>
+                    <div id="materialChart"></div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Collection Items</h2>
+            <div class="gallery" id="itemGallery"></div>
+        </section>
+    </main>
+
+    <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
