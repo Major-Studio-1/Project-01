@@ -2,8 +2,8 @@
 PSDV5200 MS1 Project 01
 
 ## Viz idea 1: Owney the Dog
-- Prototype 1: [Idea1-Owney v1](/idea1-Owney/Owney_ver_babystep/index.html)
-- Prototype 2: [Idea1-Owney v2](/idea1-Owney/owney-visualization.html)
+- Prototype 1: [Idea1-Owney v1](https://major-studio-1.github.io/Project-01/idea1-Owney/Owney_ver_babystep/index.html)
+- Prototype 2: [Idea1-Owney v2](https://major-studio-1.github.io/Project-01/idea1-Owney/owney-visualization.html)
 - Prototype 2: [Idea1-Owney v2 pro](https://owney-through-time.hihaolong.chatgpt.site/)
 - Data and background: https://postalmuseum.si.edu/exhibition/about-postal-operations-popular-culture-seals-symbols/owney-the-dog
 ![Project Screenshot](images/owney.jpg)
